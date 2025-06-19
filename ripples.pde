@@ -1,6 +1,6 @@
 import processing.javafx.*;
 
-int n = 15;
+int n = 30;
 hamon[] ripple = new hamon[n];
 void setup() {
   size(800, 800, FX2D);
