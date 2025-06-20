@@ -37,7 +37,7 @@ class star {
         t=0;
       }
       repeat -= 1;
-    } else if (int(random(40)) == 1) {
+    } else if (int(random(15)) == 1) {
       repeat = random(20,80);
       t = int(random(2));
     }
